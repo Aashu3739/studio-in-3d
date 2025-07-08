@@ -4,6 +4,8 @@
 
 - [GitHub](https://github.com/Aashu3739/studio-in-3d)
 
+![Project Preview](assets/studio.png)
+
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
