@@ -1,5 +1,5 @@
 # My studio in 3D
-
+   
 ## Links
 
 - [GitHub](https://github.com/Aashu3739/studio-in-3d)
@@ -67,3 +67,4 @@ If you see errors about webpack, webpack-cli, or webpack-dev-server versions, or
    ```
 
 ---
+This project uses components from Bruno Simon’s project, licensed under the MIT License.
